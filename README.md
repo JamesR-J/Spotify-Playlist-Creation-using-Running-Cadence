@@ -60,6 +60,7 @@ If you download the file, use the command line to set your current directory to 
 ## Libraries:
 * pandas
 * spotipy
+* imblearn
 * sklearn
 * XGBoost
 
