@@ -58,7 +58,10 @@ If you download the file, use the command line to set your current directory to 
 * Install the required libraries below
 
 ## Libraries:
+* pandas
 * spotipy
+* sklearn
+* XGBoost
 
 ## Next Steps:
 * Improve ratings system of tracks. eg rate out of 10 rather than just binary
